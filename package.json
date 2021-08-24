@@ -1,0 +1,35 @@
+{
+  "name": "passport-namba",
+  "version": "0.0.1",
+  "description": "Namba (OAuth 1.0a) authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "namba",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "vasilev@github",
+    "url": "https://github.com/vasilev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vasilev/passport-namba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vasilev/passport-namba/issues"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth1": "1.x.x"
+  }
+}
