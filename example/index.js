@@ -1,3 +1,7 @@
+// To run this example (set your own values to CONSUMER_KEY and CONSUMER_SECRET):
+//     yarn add express passport connect-ensure-login express-session https://github.com/vasilev/passport-namba.git
+//     CONSUMER_KEY=... CONSUMER_SECRET=... node index.js
+
 const express = require('express');
 const passport = require('passport');
 var NambaStrategy = require('passport-namba').Strategy;
