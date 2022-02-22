@@ -54,6 +54,7 @@ For example, as route middleware in an [Express](http://expressjs.com/) applicat
 
 [Express](http://expressjs.com/)-based
 [example](https://github.com/vasilev/passport-namba/blob/main/example/index.js) is available.
+Also there is a simple [TypeScript example](https://github.com/vasilev/passport-namba/blob/main/example/index-ts.ts).
 
 ## Credits
 
